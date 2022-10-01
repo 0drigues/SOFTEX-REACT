@@ -1,0 +1,12 @@
+/*Criando uma classe neste tipo de arquivo: */
+.fraseContainer{
+    background-color: #333;
+    border: 1px solid #111;
+}
+
+.fraseContent{
+    padding: 4px;
+    background-color: #333;
+    color: #eee;
+    margin: 0;
+}
